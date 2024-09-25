@@ -21,7 +21,7 @@ To view the website locally, follow these steps:
 1. Clone the repository or download the files.
    ```
    git clone https://github.com/BhoomiGohil/html-css-bakery.git
-   cd html-css-bakery/HTML
+   cd html-css-bakery
    ```
 2. Open the `Index.html` file in your web browser.
    ```
