@@ -30,12 +30,14 @@ To view the website locally, follow these steps:
 
 OR
 
-To view the project using Live Server in Visual Studio Code:
+Using Live Server in Visual Studio Code:
 
-1. Right-click on `Index.html` in the Explorer pane.
-2. Select **"Open with Live Server"**.
+1. **Install the Live Server extension:**
+   Open Visual Studio Code Go to the Extensions view by clicking on the square icon on the left sidebar or pressing Ctrl+Shift+X Search for "Live Server" and click Install
 
-This will open the project in your browser, and any changes made to the code will be automatically reflected.
+2. Once installed, right-click on index.html and select "Open with Live Server".
+
+This will open the project in your browser, and changes made to the code will be reflected automatically.
 
 ## Technologies Used
 
