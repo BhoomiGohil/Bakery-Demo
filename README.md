@@ -19,8 +19,23 @@ Below is a visual representation of the website's home page:
 To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
-2. Open the `index.html` file in your web browser.
-3. Explore the design and layout!
+   ```
+   git clone https://github.com/BhoomiGohil/html-css-bakery.git
+   cd html-css-bakery/HTML
+   ```
+2. Open the `Index.html` file in your web browser.
+   ```
+   open Index.html
+   ```
+
+OR
+
+To view the project using Live Server in Visual Studio Code:
+
+1. Right-click on `Index.html` in the Explorer pane.
+2. Select **"Open with Live Server"**.
+
+This will open the project in your browser, and any changes made to the code will be automatically reflected.
 
 ## Technologies Used
 
