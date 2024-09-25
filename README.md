@@ -21,7 +21,7 @@ To view the website locally, follow these steps:
 1. Clone the repository or download the files.
    ```
    git clone https://github.com/BhoomiGohil/html-css-bakery.git
-   cd html-css-bakery
+   cd html-css-bakery/HTML
    ```
 2. Open the `Index.html` file in your web browser.
    ```
@@ -35,7 +35,7 @@ Using Live Server in Visual Studio Code:
 1. **Install the Live Server extension:**
    Open Visual Studio Code Go to the Extensions view by clicking on the square icon on the left sidebar or pressing Ctrl+Shift+X Search for "Live Server" and click Install
 
-2. Once installed, right-click on index.html and select "Open with Live Server".
+2. Once installed, right-click on index.html under HTML folder and select "Open with Live Server".
 
 This will open the project in your browser, and changes made to the code will be reflected automatically.
 
