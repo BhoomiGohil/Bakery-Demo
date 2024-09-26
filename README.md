@@ -50,7 +50,3 @@ This will open the project in your browser, and changes made to the code will be
 ## Acknowledgments
 
 - Thank you to Jen Kramer for the Front End Master course that inspired this project.
-
-```
-
-```
