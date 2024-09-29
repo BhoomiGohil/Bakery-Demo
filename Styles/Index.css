@@ -50,8 +50,9 @@ header {
 
 nav {
   width: 100%;
-  padding-top: 12px;
-  background-image: url("../Images/scallop.png");
+  padding-top: 10px;
+  background-image: url(../Images/scallop.png);
+  background-position: center;
 }
 
 nav ul {
